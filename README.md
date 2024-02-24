@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DixitaPoojari
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Data Analysis techniques and tools.
+- 💞️ I’m looking to collaborate on projects related to data analysis and visualization.
+- 📫 How to reach me: You can reach me via email at [dikshitapoojari17@gmail.com) or connect with me on www.linkedin.com/in/dixita-poojari-ab88891b9
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy exploring new datasets and uncovering insights from them!
